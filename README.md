@@ -8,4 +8,4 @@ Develop a predictive model to estimate crop yield based on historical data.
 Identify key factors influencing agricultural productivity.
 Provide actionable insights for farmers and policymakers to optimize yield.
 Enhance sustainability by promoting efficient resource utilization.
-![Uploading image.png…]()
+
